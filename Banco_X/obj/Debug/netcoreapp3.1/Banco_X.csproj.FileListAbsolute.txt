@@ -1,0 +1,14 @@
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Banco_X\obj\Debug\netcoreapp3.1\Banco_X.csproj.AssemblyReference.cache
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Banco_X\obj\Debug\netcoreapp3.1\Banco_X.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Banco_X\obj\Debug\netcoreapp3.1\Banco_X.AssemblyInfoInputs.cache
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Banco_X\obj\Debug\netcoreapp3.1\Banco_X.AssemblyInfo.cs
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Banco_X\obj\Debug\netcoreapp3.1\Banco_X.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Banco_X\bin\Debug\netcoreapp3.1\Banco_X.exe
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Banco_X\bin\Debug\netcoreapp3.1\Banco_X.deps.json
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Banco_X\bin\Debug\netcoreapp3.1\Banco_X.runtimeconfig.json
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Banco_X\bin\Debug\netcoreapp3.1\Banco_X.runtimeconfig.dev.json
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Banco_X\bin\Debug\netcoreapp3.1\Banco_X.dll
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Banco_X\bin\Debug\netcoreapp3.1\Banco_X.pdb
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Banco_X\obj\Debug\netcoreapp3.1\Banco_X.dll
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Banco_X\obj\Debug\netcoreapp3.1\Banco_X.pdb
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Banco_X\obj\Debug\netcoreapp3.1\Banco_X.genruntimeconfig.cache
