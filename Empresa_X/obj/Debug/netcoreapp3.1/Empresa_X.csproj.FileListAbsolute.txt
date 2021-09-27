@@ -1,0 +1,14 @@
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Empresa_X\obj\Debug\netcoreapp3.1\Empresa_X.csproj.AssemblyReference.cache
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Empresa_X\obj\Debug\netcoreapp3.1\Empresa_X.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Empresa_X\obj\Debug\netcoreapp3.1\Empresa_X.AssemblyInfoInputs.cache
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Empresa_X\obj\Debug\netcoreapp3.1\Empresa_X.AssemblyInfo.cs
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Empresa_X\obj\Debug\netcoreapp3.1\Empresa_X.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Empresa_X\bin\Debug\netcoreapp3.1\Empresa_X.exe
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Empresa_X\bin\Debug\netcoreapp3.1\Empresa_X.deps.json
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Empresa_X\bin\Debug\netcoreapp3.1\Empresa_X.runtimeconfig.json
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Empresa_X\bin\Debug\netcoreapp3.1\Empresa_X.runtimeconfig.dev.json
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Empresa_X\bin\Debug\netcoreapp3.1\Empresa_X.dll
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Empresa_X\bin\Debug\netcoreapp3.1\Empresa_X.pdb
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Empresa_X\obj\Debug\netcoreapp3.1\Empresa_X.dll
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Empresa_X\obj\Debug\netcoreapp3.1\Empresa_X.pdb
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Empresa_X\obj\Debug\netcoreapp3.1\Empresa_X.genruntimeconfig.cache
