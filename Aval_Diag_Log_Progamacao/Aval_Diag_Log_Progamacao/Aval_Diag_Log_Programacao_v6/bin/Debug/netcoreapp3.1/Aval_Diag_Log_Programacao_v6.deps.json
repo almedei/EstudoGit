@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aval_Diag_Log_Programacao_v6/1.0.0": {
+        "runtime": {
+          "Aval_Diag_Log_Programacao_v6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aval_Diag_Log_Programacao_v6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,5 @@
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Avaliação diagnóstica\Aval_Diag_Log_Progamacao\Aval_Diag_Log_Progamacao\Aval_Diag_Log_Programacao_v5\obj\Debug\net5.0\Aval_Diag_Log_Programacao_v5.csproj.AssemblyReference.cache
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Avaliação diagnóstica\Aval_Diag_Log_Progamacao\Aval_Diag_Log_Progamacao\Aval_Diag_Log_Programacao_v5\obj\Debug\net5.0\Aval_Diag_Log_Programacao_v5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Avaliação diagnóstica\Aval_Diag_Log_Progamacao\Aval_Diag_Log_Progamacao\Aval_Diag_Log_Programacao_v5\obj\Debug\net5.0\Aval_Diag_Log_Programacao_v5.AssemblyInfoInputs.cache
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Avaliação diagnóstica\Aval_Diag_Log_Progamacao\Aval_Diag_Log_Progamacao\Aval_Diag_Log_Programacao_v5\obj\Debug\net5.0\Aval_Diag_Log_Programacao_v5.AssemblyInfo.cs
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Avaliação diagnóstica\Aval_Diag_Log_Progamacao\Aval_Diag_Log_Progamacao\Aval_Diag_Log_Programacao_v5\obj\Debug\net5.0\Aval_Diag_Log_Programacao_v5.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Aval_Diag_Log_Progamacao\Aval_Diag_Log_Progamacao_v2.sln" />
+  </ItemGroup>
+
+</Project>

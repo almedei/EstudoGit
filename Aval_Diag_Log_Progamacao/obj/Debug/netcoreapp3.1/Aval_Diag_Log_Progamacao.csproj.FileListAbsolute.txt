@@ -1,0 +1,14 @@
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Avaliação diagnóstica\Aval_Diag_Log_Progamacao\obj\Debug\netcoreapp3.1\Aval_Diag_Log_Progamacao.csproj.AssemblyReference.cache
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Avaliação diagnóstica\Aval_Diag_Log_Progamacao\obj\Debug\netcoreapp3.1\Aval_Diag_Log_Progamacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Avaliação diagnóstica\Aval_Diag_Log_Progamacao\obj\Debug\netcoreapp3.1\Aval_Diag_Log_Progamacao.AssemblyInfoInputs.cache
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Avaliação diagnóstica\Aval_Diag_Log_Progamacao\obj\Debug\netcoreapp3.1\Aval_Diag_Log_Progamacao.AssemblyInfo.cs
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Avaliação diagnóstica\Aval_Diag_Log_Progamacao\obj\Debug\netcoreapp3.1\Aval_Diag_Log_Progamacao.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Avaliação diagnóstica\Aval_Diag_Log_Progamacao\bin\Debug\netcoreapp3.1\Aval_Diag_Log_Progamacao.exe
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Avaliação diagnóstica\Aval_Diag_Log_Progamacao\bin\Debug\netcoreapp3.1\Aval_Diag_Log_Progamacao.deps.json
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Avaliação diagnóstica\Aval_Diag_Log_Progamacao\bin\Debug\netcoreapp3.1\Aval_Diag_Log_Progamacao.runtimeconfig.json
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Avaliação diagnóstica\Aval_Diag_Log_Progamacao\bin\Debug\netcoreapp3.1\Aval_Diag_Log_Progamacao.runtimeconfig.dev.json
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Avaliação diagnóstica\Aval_Diag_Log_Progamacao\bin\Debug\netcoreapp3.1\Aval_Diag_Log_Progamacao.dll
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Avaliação diagnóstica\Aval_Diag_Log_Progamacao\bin\Debug\netcoreapp3.1\Aval_Diag_Log_Progamacao.pdb
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Avaliação diagnóstica\Aval_Diag_Log_Progamacao\obj\Debug\netcoreapp3.1\Aval_Diag_Log_Progamacao.dll
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Avaliação diagnóstica\Aval_Diag_Log_Progamacao\obj\Debug\netcoreapp3.1\Aval_Diag_Log_Progamacao.pdb
+C:\Users\Alexandre\Desktop\Curso Lógica IOX - Future\Avaliação diagnóstica\Aval_Diag_Log_Progamacao\obj\Debug\netcoreapp3.1\Aval_Diag_Log_Progamacao.genruntimeconfig.cache
